@@ -24,7 +24,7 @@ CloudWatch Events: Scheduled events or custom rules
 Execution Environment: Lambda provides a managed environment where your code runs, including operating system, libraries, and dependencies.
 Concurrency: Lambda can scale automatically to handle varying workloads, allowing for high availability.
 ![image alt](https://github.com/Devansh2647/CODTECH-TASK3/blob/87e2a4b94855d7b9cee835379f267a1fa3420533/2024-08-30%20(11).png)
-![image alt](
+![image alt](https://github.com/Devansh2647/CODTECH-TASK3/blob/fd64876d73b19dfb6f99562944769aa10f7bbc8c/2024-08-30%20(13).png)
 ![image alt](
 ![image alt](
 ![image alt](
