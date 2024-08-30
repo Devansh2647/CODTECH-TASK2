@@ -7,6 +7,8 @@ Id-CT08DS6248
 Domain-Cloud Computing
 
 Mentor-Neela Santhosh Kumar
+
+
 OVERVIEW OF PROJECT 
 Building a Serverless Application with AWS Lambda 
 AWS Lambda is a serverless computing service that lets you run code without provisioning or managing servers. It's a popular choice for building scalable and cost-effective applications.
