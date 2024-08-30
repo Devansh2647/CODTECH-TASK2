@@ -28,8 +28,6 @@ Concurrency: Lambda can scale automatically to handle varying workloads, allowin
 ![image alt](https://github.com/Devansh2647/CODTECH-TASK3/blob/38ba9119ff7a1340634d938ff0a9ee6c17ac377b/2024-08-30%20(14).png)
 ![image alt](https://github.com/Devansh2647/CODTECH-TASK3/blob/04deb35e5df4764b4ed4721d743c85774cb8ce2b/2024-08-30%20(15).png)
 ![image alt](https://github.com/Devansh2647/CODTECH-TASK3/blob/a60bccecab26f8088869d0b5d0ed5cebf0c0112d/2024-08-30%20(2).png)
-![image alt](
-![image alt](
-![image alt](
+![image alt](https://github.com/Devansh2647/CODTECH-TASK3/blob/b2f6557aeb046c46b41c00326cb9d445dc93dab4/2024-08-30%20(6).png)
 ![image alt](
 ![image alt](
